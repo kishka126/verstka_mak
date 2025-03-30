@@ -1,0 +1,144 @@
+.header {
+    background-color:#313131 ;
+    height: 72px;
+    max-width: 100%;
+}
+.image_logo {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:  24px; 
+
+}
+.container {
+     background-color: black; 
+}
+.box_zagolovok{
+    box-sizing: border-box;
+    width: 560px;
+    padding-top: 58px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title {
+    color: white;
+   font-family: Verdana, Geneva, Tahoma, sans-serif ; 
+text-align: center;
+font-size: 40px;
+    font-weight: 700px;
+}
+.link_h2{
+    padding-top: 70px;
+    text-align: center;
+}
+.link {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    color: #51ACFF;
+    text-decoration: none;
+}
+.image {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+}
+.box {
+padding:41px 111px;
+width: 418px;
+height: 88px;
+text-align: center;
+display:flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box_1 {
+   padding-left: auto;
+   border-bottom: 4px solid #EDBB99;
+   width: 96px;
+height: 88px;
+}
+.text {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ; 
+    font-size: 10px;
+    font-weight: 400px;
+    display: flex;
+}
+.text_1 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ; 
+    font-size: 30px;
+    font-weight: 700px;
+    padding-top: 5px;
+    display: flex;
+}
+.box_2 {
+    margin-left: 65px;
+    margin-right: 65px;
+    border-bottom: 4px solid #EDBB99;
+    width: 110px;
+height: 88px;
+}
+.text_2 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ; 
+    font-size: 10px;
+    font-weight: 400px;
+    padding-top: 5px;
+    display: flex;
+    
+}
+.box_3 {
+    width: 96px;
+    height: 88px;
+    border-bottom: 4px solid #EDBB99;
+}
+.popa {
+    background-color:#313131 ;
+}
+.box_logo{
+    width: 115.65px;
+    height: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 48px;
+}
+
+.logo_3 {
+    padding-right: 17px;
+    padding-left: 17px;
+    
+}
+.box_popa_text{
+    text-align: center;
+    width: 418px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.text_popa_1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif ; 
+    font-size: 10px;
+    font-weight: 400px;
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+}
+.text_popa_2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif ; 
+    font-size: 10px;
+    font-weight: 400px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+}
+.link_popa {
+    font-family: Verdana, Geneva, Tahoma, sans-serif ; 
+    text-decoration: none;
+    color: #51ACFF;
+} 
